@@ -1,1 +1,1 @@
-# cs-project
+# computer-career
